@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env/
+
+# Logs
+*.log
+
+# CSV files (optional – skip if you want to push data too)
+*.csv
